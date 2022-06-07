@@ -136,9 +136,9 @@
 ---
 
 [//]: # "from my repo"
-[1page-automation]: (../rsb-23/1page-automation)
-[debloaters]: ../tree/main/Android_Debloaters
-[disable_bg_data]: ../blob/main/ADB_Tweaks/disable_bg_data.bat
+[1page-automation]: https://github.com/rsb-23/1page-automation
+[debloaters]: ../Android_Debloaters/README.md
+[disable_bg_data]: ../ADB_Tweaks/disable_bg_data.bat
 [//]: # "apps"
 [aurora]: https://gitlab.com/AuroraOSS/AuroraStore
 [blackhole]: https://sangwan5688.github.io

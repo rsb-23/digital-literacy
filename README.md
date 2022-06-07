@@ -39,11 +39,11 @@ living in digital world easier.
 :pushpin: [FOSS_Rocks] - My telegram channel for quick updates.
 
 [//]: # "General"
-[awesome-privacy]: ../search?q=awesome-privacy
+[awesome-privacy]: https://github.com/search?q=awesome-privacy
 [foss_rocks]: https://t.me/fossrocks
 [//]: # "From my repo"
-[declutter]: ../blob/main/mds/Decluttering.md
-[fraud]: ../blob/main/mds/Fraud.md
-[mobile]: ../blob/main/mds/Smartphone%20Checklist.md
-[online]: ../blob/main/mds/Online.md
-[pc]: ../blob/main/mds/Laptop%20Checklist.md
+[declutter]: ../main/mds/Decluttering.md
+[fraud]: ../main/mds/Fraud.md
+[mobile]: ../main/mds/Smartphone%20Checklist.md
+[online]: ../main/mds/Online.md
+[pc]: ../main/mds/Laptop%20Checklist.md
