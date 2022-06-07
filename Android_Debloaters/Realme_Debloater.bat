@@ -9,6 +9,7 @@ for %%X in (
 "com.coloros.gamespace"
 "coloros.gamespaceui"
 "com.coloros.oppomultiapp"
+"com.coloros.oshare"
 "com.coloros.video"
 "com.coloros.wallpapers"
 "com.coloros.weather2"
@@ -32,5 +33,10 @@ for %%X in (
 "com.tencent.soter.soterserver"
 ) do (
     adb shell pm uninstall -k --user 0 %%X
+)
+for %%Y in (
+"com.heytap.themestore"
+) do (
+adb shell pm disable-user --user 0 %%Y
 )
 pause

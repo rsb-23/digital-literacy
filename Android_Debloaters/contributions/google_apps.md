@@ -10,6 +10,7 @@
 | com.google.android.apps.tachyon         | Duo          | :heavy_check_mark: |
 | com.google.android.apps.wellbeing       |              | :heavy_check_mark: |
 | com.google.android.apps.youtube.music   |              | :heavy_check_mark: |
+| com.google.android.calendar             |              | :heavy_check_mark: |
 | com.google.android.feedback             |              | :heavy_check_mark: |
 | com.google.android.gms.location.history |              | :heavy_check_mark: |
 | com.google.android.googlequicksearchbox |              | :heavy_check_mark: |

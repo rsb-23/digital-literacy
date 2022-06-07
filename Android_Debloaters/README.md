@@ -12,7 +12,7 @@ _Request : Other 5% users, run the script and reinstall from app-store (Or try F
 
 1. Downlaod and unzip ADB driver (Android platform-tools)
 1. Modify adb.exe path in script (in my system - "D:\adb_android\platform-tools")
-1. Enable USB debugging in Android device (Settings > Additional Settings > Developer Options)
+1. Enable "USB debugging" in Android device (Settings > Additional Settings > Developer Options)
 1. Connect device via USB and set 'File transfer' mode.
 1. Run bat script > check for device name > continue...
 
@@ -29,6 +29,7 @@ _Request : Other 5% users, run the script and reinstall from app-store (Or try F
 |  MIUI   | com.miui.gallery                 | Can be risky    |
 |  MIUI   | com.miui.global.packageinstaller | Can be risky    |
 | Realme  | com.coloros.weather.service      | Causes Bootloop |
+| Realme  | com.coloros.weather2             | Can be risky    |
 
 \*\* Check contribution folder for complete list
 
