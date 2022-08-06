@@ -19,11 +19,11 @@ living in digital world easier.
 
    - [Smartphones (Android/ iOS)][mobile]
    - [Laptops / PCs][pc] :soon:
-   - [Online Accounts][online] (Ex- Google Account) :soon:
+   - [Online Accounts][online] (Ex- Google Account)
 
-1. [Decluttering Digital space][declutter]
+1. Decluttering Digital space [:link:][declutter]
 
-1. ...:pencil2:
+1. Regular CleanUps and security checks [:link:][reminder]
 
 ### Points to Note
 
@@ -36,14 +36,17 @@ living in digital world easier.
 ### Other Sources
 
 :pushpin: [Awesome-Privacy] - Privacy focused Github repos  
-:pushpin: [FOSS_Rocks] - My telegram channel for quick updates.
+:pushpin: [FOSS_Rocks] - My telegram channel for quick updates.  
+:pushpin: [Privacy Tips Naomi][nbtv] - Youtube shorts channel
 
 [//]: # "General"
 [awesome-privacy]: https://github.com/search?q=awesome-privacy
 [foss_rocks]: https://t.me/fossrocks
+[nbtv]: https://www.youtube.com/channel/UCl-1F7xXsemsq-dAYODVt8g
 [//]: # "From my repo"
 [declutter]: ../main/mds/Decluttering.md
 [fraud]: ../main/mds/Fraud.md
 [mobile]: ../main/mds/Smartphone%20Checklist.md
 [online]: ../main/mds/Online.md
 [pc]: ../main/mds/Laptop%20Checklist.md
+[reminder]: ../main/mds/Reminders.md
