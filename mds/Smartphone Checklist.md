@@ -86,22 +86,23 @@
 
       - [F-droid] (UI-clients like [Droid-ify], [NeoStore], etc.)
       - [Aurora]
-      - Official Websites (like [Simple Mobile Tools][simple], etc.)
+      - Official Websites (like [Fossify Apps][fossify], etc.)
 
-      > Simple Mobile Tools : All general purpose apps (like gallery, contact, dialer, calculator, etc.) are available here. Pro versions are availble for free in F-droid store.
+      > Fossify Apps : All general purpose apps (like gallery, contact, dialer, calculator, etc.) are available here. Pro versions are availble for free in F-droid store.
 
    1. SMS Messenger
       - [Microsoft SMS Organizer][msft_sms]
    1. Private messengers
 
       - Signal
+      - Session / SimpleChatX (only in [F-droid])
       - Wire
       - Telegram ([Forkgram])
 
    1. Private Email Clients
 
       - [Proton Mail][protonmail]
-      - [Tutanota]
+      - [Tuta Mail][tuta]
 
    1. Music Player
 
@@ -148,6 +149,7 @@
 [droid-ify]: https://f-droid.org/packages/com.looker.droidify
 [f-droid]: https://f-droid.org
 [forkgram]: https://f-droid.org/packages/org.forkgram.messenger
+[fossify]: https://www.fossify.org
 [invidious]: https://yewtu.be
 [leon]: https://f-droid.org/packages/com.svenjacobs.app.leon
 [msft_sms]: https://play.google.com/store/apps/details?id=com.microsoft.android.smsorganizer
@@ -158,8 +160,7 @@
 [odysee]: http://Odysee.com
 [protonmail]: https://proton.me/mail
 [safe-dots]: https://play.google.com/store/apps/details?id=com.aravi.dot
-[simple]: https://simplemobiletools.com
 [tc]: https://trackercontrol.org
-[tutanota]: https://tutanota.com
+[tuta]: https://tuta.com
 [untrackme]: https://f-droid.org/en/packages/app.fedilab.nitterizeme
 [vlc]: https://play.google.com/store/apps/details?id=org.videolan.vlc

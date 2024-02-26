@@ -10,6 +10,12 @@
 
 [1page-automation]: https://github.com/rsb-23/1page-automation
 
+### Tips
+
+1. To see social media contents `without login`, use alternatives like
+   - Twitter : https://nitter.net
+   - Youtube : https://yewtu.be , etc.
+
 ## Google Accounts
 
 - [Personal info](https://myaccount.google.com/personal-info)
@@ -30,17 +36,20 @@
 
   :scissors: Unnecessary [contacts][other] synced by google
 
+  :eyes: - [Chrome] data  
   :eyes: - Login [Devices]  
   :eyes: - [Google Sign-ins][signin]  
-  :eyes: - Password Manager  
+  :eyes: - [Password Manager][pwdm]  
   :eyes: - [Dashboard]
 
   > Can download your data from https://takeout.google.com/
 
+[chrome]: https://chrome.google.com/sync
 [dashboard]: https://myaccount.google.com/u/0/dashboard
 [devices]: https://myaccount.google.com/u/0/device-activity
 [other]: https://contacts.google.com/u/0/other
 [phone]: https://myaccount.google.com/phone
+[pwdm]: https://passwords.google.com
 [signin]: https://myaccount.google.com/u/0/permissions
 
 ## WhatsApp / Signal / other messengers
@@ -50,13 +59,3 @@
 :white_circle: Turn-off media visibility for group chats  
 :question: Enable E2E encryption for Chat backups.  
 :question: Enable 2FA verification PIN for account
-
----
-
-| Symbol                                      | Meaning                |
-| ------------------------------------------- | ---------------------- |
-| :scissors:                                  | to delete              |
-| :white_circle:                              | to disable             |
-| :red_circle: :yellow_circle: :green_circle: | Avoid - Caution - Safe |
-| :eyes:                                      | Have a look            |
-| :question:                                  | Not tested             |
