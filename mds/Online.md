@@ -37,16 +37,20 @@
   :scissors: Unnecessary [contacts][other] synced by google
 
   :eyes: - [Chrome] data  
+  :eyes: - [Dashboard]  
   :eyes: - Login [Devices]  
-  :eyes: - [Google Sign-ins][signin]  
+  :eyes: - Recent [Groups]  
   :eyes: - [Password Manager][pwdm]  
-  :eyes: - [Dashboard]
+  :eyes: - [Payments][gpay]  
+  :eyes: - [Google Sign-ins][signin]  
 
   > Can download your data from https://takeout.google.com/
 
 [chrome]: https://chrome.google.com/sync
 [dashboard]: https://myaccount.google.com/u/0/dashboard
 [devices]: https://myaccount.google.com/u/0/device-activity
+[gpay]: https://payments.google.com/gp/w/u/0/home/settings
+[groups]: https://groups.google.com/u/0/recent
 [other]: https://contacts.google.com/u/0/other
 [phone]: https://myaccount.google.com/phone
 [pwdm]: https://passwords.google.com
