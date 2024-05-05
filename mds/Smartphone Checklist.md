@@ -2,6 +2,9 @@
 
 ### Settings Changes
 
+1. Disable playstore trackings:
+   - `Playstore > Settings > General > App install optimization`
+
 1. Optimize default privacy settings:  
    Be careful of words like _suggestion_, _recommendation_, _personalization_ and _optimization_.
 
@@ -34,6 +37,8 @@
    :100: Highly advised for Social Media and Banking Apps  
    :warning: Warning : Be careful with System Apps
 
+1. Disable location and timestamp info in camera app. `Camera > Settings > disable....`
+
 1. Remove suspicious permissions:  
    Suspicious permissions are based on the functionality of app.  
    Ex- Calculator app function is to do mathematical calculations, hence it doesn't need any permissions like Camera access, Microphone, Location, contacts, read sms, storage etc.; but a messenger app (Signal/Telegram, etc) will need these permissions.
@@ -42,6 +47,11 @@
 
    :loop: `Settings > Permission Manager > Microphone`  
    :loop: `Settings > [search] Special App Access`
+
+1. Change DNS provider to one of the below:
+   - dns.adguard.com
+   - 1.1.1.1
+   - 9.9.9.9
 
 1. Uninstall Bloatwares (Unnecessary pre-installed apps) and unused apps.  
    :computer: [Debloaters]
@@ -94,7 +104,7 @@
       - [Microsoft SMS Organizer][msft_sms]
    1. Private messengers
 
-      - Signal
+      - [Signal] (supports Username too)
       - Session / SimpleChatX (only in [F-droid])
       - Wire
       - Telegram ([Forkgram])
@@ -133,6 +143,7 @@
    - Available PWAs
 
      - All social media
+     - Youtube
      - Starbucks
      - Lenskart
      - Myntra/ Jabong
@@ -160,6 +171,7 @@
 [odysee]: http://Odysee.com
 [protonmail]: https://proton.me/mail
 [safe-dots]: https://play.google.com/store/apps/details?id=com.aravi.dot
+[signal]: https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
 [tc]: https://trackercontrol.org
 [tuta]: https://tuta.com
 [untrackme]: https://f-droid.org/en/packages/app.fedilab.nitterizeme

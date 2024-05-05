@@ -7,4 +7,6 @@
 1. WhatsApp message without saving contact  
    Type in browser {91 followed by number} = wa.me/919876543210
 
+1. Using Airplane mode in low network area (like flights, village, etc.) saves battery.
+
 1. ...:pencil2:
