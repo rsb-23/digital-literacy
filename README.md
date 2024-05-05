@@ -20,6 +20,7 @@ living in digital world easier.
    - [Smartphones (Android/ iOS)][mobile]
    - [Laptops / PCs][pc] :soon:
    - [Online Accounts][online] (Ex- Google Account)
+   - [Opt-Out Links][optout]
 
 1. Decluttering Digital space [:link:][declutter]
 
@@ -36,7 +37,7 @@ living in digital world easier.
 ### Other Sources
 
 :pushpin: [Awesome-Privacy] - Privacy focused Github repos  
-:pushpin: [FOSS_Rocks] - My telegram channel for quick updates.  
+:pushpin: [FOSS_Rocks] - Telegram channel for quick updates.  
 :pushpin: [Privacy Tips Naomi][nbtv] - Youtube shorts channel
 
 [//]: # "General"
@@ -48,5 +49,6 @@ living in digital world easier.
 [fraud]: ../main/mds/Fraud.md
 [mobile]: ../main/mds/Smartphone%20Checklist.md
 [online]: ../main/mds/Online.md
+[optout]: ../main/mds/OptOut.md
 [pc]: ../main/mds/Laptop%20Checklist.md
 [reminder]: ../main/mds/Reminders.md
