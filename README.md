@@ -20,7 +20,7 @@ living in digital world easier.
    - [Smartphones (Android/ iOS)][mobile]
    - [Laptops / PCs][pc] :soon:
    - [Online Accounts][online] (Ex- Google Account)
-   - [Opt-Out Links](optout)
+   - [Opt-Out Links][optout]
 
 1. Decluttering Digital space [:link:][declutter]
 
